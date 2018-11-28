@@ -11,9 +11,10 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'bootsnap'
+gem 'pg'
 
 group :development, :test do
-  gem 'pg'
   gem 'byebug'
 end
 
