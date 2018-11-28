@@ -13,6 +13,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'bootsnap'
 gem 'pg'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'byebug'
