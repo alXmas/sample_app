@@ -14,6 +14,7 @@ gem 'jbuilder'
 gem 'bootsnap'
 gem 'pg'
 gem 'bootstrap-sass'
+gem 'bcrypt'
 
 group :development, :test do
   gem 'byebug'
