@@ -15,6 +15,9 @@ gem 'bootsnap'
 gem 'pg'
 gem 'bootstrap-sass'
 gem 'bcrypt'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :development, :test do
   gem 'byebug'
