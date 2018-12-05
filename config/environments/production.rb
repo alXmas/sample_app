@@ -91,5 +91,8 @@ Rails.application.configure do
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
 
+  #
+  # Тут должны быть настройки сервера рассылки, но у меня его нет :(
+  #
 
 end
